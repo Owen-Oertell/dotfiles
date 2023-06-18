@@ -23,10 +23,6 @@ let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 let g:UltiSnipsSnippetsDir = $HOME.'/.vim/snp'
 let g:tex_flavor='latex'
 
-"Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
-"Plug 'ayu-theme/ayu-vim' 
-Plug 'frenzyexists/aquarium-vim', { 'branch': 'develop' }
-
 Plug 'tpope/vim-surround'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
